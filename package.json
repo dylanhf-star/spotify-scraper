@@ -1,0 +1,26 @@
+{
+  "name": "spotify-scraper",
+  "version": "1.0.0",
+  "description": "Convert Spotify playlist links to readable text format",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "scrape": "node src/index.js",
+    "help": "node src/index.js --help",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"No linter configured yet\"",
+    "build": "echo \"No build process needed for basic Node.js app\""
+  },
+  "keywords": [
+    "spotify",
+    "playlist",
+    "scraper",
+    "music"
+  ],
+  "author": "Dylan",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "spotify-url-info": "^3.2.18"
+  }
+}
