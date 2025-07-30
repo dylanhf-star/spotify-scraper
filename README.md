@@ -1,6 +1,6 @@
 # Spotify Scraper
 
-Convert Spotify playlist links to readable text format.
+Convert Spotify playlist links to readable text format. Intended for use with Spotify "Liked Songs" which tend to be more difficult to access as a playlist.
 
 ## Overview
 
